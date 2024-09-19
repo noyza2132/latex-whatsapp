@@ -1,6 +1,6 @@
 {
-  "name": "texapp",
-  "version": "1.0.0",
+  "name": "latex-whatsapp",
+  "version": "1.1.0",
   "description": "Whatsapp bot that works like TexIt discord bot",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,7 @@
   },
   "author": "noyza",
   "license": "ISC",
+  "repository": "github:noyza2132/latex-whatsapp",
   "dependencies": {
     "axios": "^1.7.5",
     "qrcode-terminal": "^0.12.0",

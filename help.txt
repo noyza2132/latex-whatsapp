@@ -1,0 +1,5 @@
+commands:
+!t <LaTeX code> : Render LaTeX and send it as a sticker
+!thelp : Send this message
+!disabletex : Disable !t in this chat (admins only)
+!enabletex : Enable !t in this chat (admins only)

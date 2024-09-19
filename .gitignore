@@ -2,3 +2,5 @@
 .wwebjs_cache
 node_modules
 .DS_Store
+temp.svg
+config.json
